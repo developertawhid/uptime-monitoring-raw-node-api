@@ -25,7 +25,7 @@ Please follow the below instructions to run this project in your machine:
    ```
 2. Go into cloned directory
    ```sh
-   cd uptime-monitoring-raw-node-api
+   cd uptime-monitoring-raw-node-api-main
    ```
 3. Run the app
    ```sh
