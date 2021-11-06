@@ -45,7 +45,7 @@ git pull
 
 ## Contact Me
 
-Developer Tawhid - [developertawhid@gmail.com](developertawhid@gmail.com)
+Developer Tawhid: [developertawhid@gmail.com](developertawhid@gmail.com)
 
 Protfolio: [https://developertawhid.github.io/portfolio/](https://developertawhid.github.io/portfolio/)
 
